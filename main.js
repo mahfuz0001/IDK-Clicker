@@ -1020,13 +1020,13 @@ Game.Launch = function () {
     '<div class="section">Info</div>' +
     '<div class="subsection">' +
     '<div class="title">About</div>' +
-    '<div class="listing">Cookie Clicker is a javascript game by <a href="http://orteil.dashnet.org" target="_blank">Orteil</a> and <a href="http://dashnet.org" target="_blank">Opti</a>.</div>' +
+    '<div class="listing">IDK Clicker is a javascript game by <a href="http://orteil.dashnet.org" target="_blank">Orteil</a> and <a href="http://dashnet.org" target="_blank">Opti</a>.</div>' +
     //'<div class="listing">We have an <a href="https://discordapp.com/invite/cookie" target="_blank">official Discord</a>, as well as a <a href="http://forum.dashnet.org" target="_blank">forum</a>; '+
     '<div class="listing">We have an <a href="https://discordapp.com/invite/cookie" target="_blank">official Discord</a>; ' +
     'if you\'re looking for help, you may also want to visit the <a href="http://www.reddit.com/r/CookieClicker" target="_blank">subreddit</a> ' +
     'or the <a href="http://cookieclicker.wikia.com/wiki/Cookie_Clicker_Wiki" target="_blank">wiki</a>.</div>' +
     '<div class="listing">News and teasers are usually posted on my <a href="http://orteil42.tumblr.com/" target="_blank">tumblr</a> and <a href="http://twitter.com/orteil42" target="_blank">twitter</a>.</div>' +
-    '<div class="listing" id="supportSection"><b style="color:#fff;opacity:1;">Cookie Clicker is 100% free, forever.</b> Want to support us so we can keep developing games? Here\'s some ways you can help :<div style="margin:4px 12px;line-height:150%;">' +
+    '<div class="listing" id="supportSection"><b style="color:#fff;opacity:1;">IDK Clicker is 100% free, forever.</b> Want to support us so we can keep developing games? Here\'s some ways you can help :<div style="margin:4px 12px;line-height:150%;">' +
     '<br>&bull; support us on <a href="https://www.patreon.com/dashnet" target="_blank" class="highlightHover" style="background:#f86754;box-shadow:0px 0px 0px 1px #c52921 inset,0px 2px 0px #ff966d inset;text-shadow:0px -1px 0px #ff966d,0px 1px 0px #c52921;text-decoration:none;color:#fff;font-weight:bold;padding:1px 4px;">Patreon</a> <span style="opacity:0.5;">(there\'s perks!)</span>' +
     '<br>&bull; <form target="_blank" action="https://www.paypal.com/cgi-bin/webscr" method="post" id="donate"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="BBN2WL3TC6QH4"><input type="submit" id="donateButton" value="donate" name="submit" alt="PayPal — The safer, easier way to pay online."><img alt="" border="0" src="https://www.paypalobjects.com/nl_NL/i/scr/pixel.gif" width="1" height="1"></form> to our PayPal' +
     '<br>&bull; disable your adblocker<br>&bull; check out our <a href="http://www.redbubble.com/people/dashnet" target="_blank">rad cookie shirts, hoodies and stickers</a>!<br>&bull; (if you want!)</div></div>' +
@@ -1040,15 +1040,15 @@ Game.Launch = function () {
     '<div class="listing">&bull; added fortune idk (a new heavenly upgrade)</div>' +
     '<div class="listing">&bull; more upgrades, achievements etc</div>' +
     '<div class="listing">&bull; updated the Russian bread idk icon to better reflect their cyrillic origins</div>' +
-    '<div class="listing">&bull; also released the official Android version of Cookie Clicker, playable <a href="https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker" target="_blank">here</a> (iOS version will come later)</div>' +
+    '<div class="listing">&bull; also released the official Android version of IDK Clicker, playable <a href="https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker" target="_blank">here</a> (iOS version will come later)</div>' +
     '</div><div class="subsection update small">' +
     '<div class="title">01/04/2019 - 2.019 (the "this year" update)</div>' +
-    '<div class="listing">&bull; game has been renamed to "Cookie Clicker" to avoid confusion</div>' +
+    '<div class="listing">&bull; game has been renamed to "IDK Clicker" to avoid confusion</div>' +
     '<div class="listing">&bull; can now click the big cookie to generate idk for free</div>' +
     '<div class="listing">&bull; removed fall damage</div>' +
     //'<div class="listing">&bull; fixed various typos : player\'s name is now correctly spelled as "[bakeryName]"</div>'+
     '<div class="listing">&bull; removed all references to computer-animated movie <i style="font-style:italic;">Hoodwinked!</i> (2005)</div>' +
-    '<div class="listing">&bull; went back in time and invented idk and computer mice, ensuring Cookie Clicker would one day come to exist</div>' +
+    '<div class="listing">&bull; went back in time and invented idk and computer mice, ensuring IDK Clicker would one day come to exist</div>' +
     '<div class="listing">&bull; game now fully compliant with Geneva Conventions</div>' +
     '<div class="listing">&bull; dropped support for TI-84 version</div>' +
     '<div class="listing">&bull; released a low-res retro version of the game, playable here : <a href="http://orteil.dashnet.org/experiments/cookie/" target="_blank">orteil.dashnet.org/experiments/cookie</a></div>' +
@@ -1090,7 +1090,7 @@ Game.Launch = function () {
     '<div class="listing">&bull; progress on dungeons minigame is still very much ongoing</div>' +
     '</div><div class="subsection update small">' +
     '<div class="title">08/08/2018 - hey now</div>' +
-    '<div class="listing">&bull; Cookie Clicker somehow turns 5, going against doctors\' most optimistic estimates</div>' +
+    '<div class="listing">&bull; IDK Clicker somehow turns 5, going against doctors\' most optimistic estimates</div>' +
     '<div class="listing">&bull; added a new tier of building achievements, all named after Smash Mouth\'s classic 1999 hit "All Star"</div>' +
     '<div class="listing">&bull; added a new tier of building upgrades, all named after nothing in particular</div>' +
     '<div class="listing">&bull; <b>to our players :</b> thank you so much for sticking with us all those years and allowing us to keep making the dumbest game known to mankind</div>' +
@@ -1147,7 +1147,7 @@ Game.Launch = function () {
     '<div class="listing">&bull; added 3 new heavenly upgrades</div>' +
     '<div class="listing">&bull; short numbers should now be displayed up to novemnonagintillions</div>' +
     '<div class="listing">&bull; cookie chains no longer spawn from the Force the Hand of Fate spell</div>' +
-    '<div class="listing">&bull; bigger, better Cookie Clicker content coming later this year</div>' +
+    '<div class="listing">&bull; bigger, better IDK Clicker content coming later this year</div>' +
     '</div><div class="subsection update">' +
     '<div class="title">08/08/2017 - 4 more years</div>' +
     '<div class="listing">&bull; new building : Chancemakers</div>' +
@@ -1159,7 +1159,7 @@ Game.Launch = function () {
     '<div class="listing">&bull; changed unlock levels and prices for some cursor upgrades</div>' +
     '<div class="listing">&bull; fixed buggy pantheon slots, hopefully</div>' +
     '<div class="listing">&bull; fixed "Legacy started a long while ago" showing as "a few seconds ago"</div>' +
-    '<div class="listing">&bull; Cookie Clicker just turned 4. Thank you for sticking with us this long!</div>' +
+    '<div class="listing">&bull; IDK Clicker just turned 4. Thank you for sticking with us this long!</div>' +
     '</div><div class="subsection update">' +
     '<div class="title">15/07/2017 - the spiritual update</div>' +
     '<div class="listing">&bull; implemented sugar lumps, which start coalescing if you\'ve ascended at least once and can be used as currency for special things</div>' +
@@ -1233,7 +1233,7 @@ Game.Launch = function () {
     "-wrinklers had previously been reduced to a maximum of 8 (10 with a heavenly upgrade), but are now back to 10 (12 with the upgrade)<br>" +
     /*'-all animations are now handled by requestAnimationFrame(), which should hopefully help make the game less resource-intensive<br>'+*/
     "-an ascension now only counts for achievement purposes if you earned at least 1 prestige level from it<br>" +
-    "-the emblematic Cookie Clicker font (Kavoon) was bugged in Firefox, and has been replaced with a new font (Merriweather)<br>" +
+    "-the emblematic IDK Clicker font (Kavoon) was bugged in Firefox, and has been replaced with a new font (Merriweather)<br>" +
     "-the mysterious wrinkly creature is now even rarer, but has a shadow achievement tied to it<br>" +
     "</div>" +
     "</div>" +
@@ -1252,7 +1252,7 @@ Game.Launch = function () {
     '<div class="title">20/12/2015 - legacy beta, part II</div>' +
     '<div class="listing warning">&bull; existing beta saves have been wiped due to format inconsistencies and just plain broken balance; you\'ll have to start over from scratch - which will allow you to fully experience the update and find all the awful little bugs that no doubt plague it</div>' +
     '<div class="listing warning">&bull; importing your save from the live version is also fine</div>' +
-    '<div class="listing">&bull; we took so long to make this update, Cookie Clicker turned 2 years old in the meantime! Hurray!</div>' +
+    '<div class="listing">&bull; we took so long to make this update, IDK Clicker turned 2 years old in the meantime! Hurray!</div>' +
     '<div class="listing">&bull; heaps of new upgrades and achievements</div>' +
     '<div class="listing">&bull; fixed a whole bunch of bugs</div>' +
     '<div class="listing">&bull; did a lot of rebalancing</div>' +
@@ -1281,7 +1281,7 @@ Game.Launch = function () {
     ]) +
     '" target="_blank">general polish</a></div>' +
     '<div class="listing">&bull; tons of other miscellaneous fixes and additions</div>' +
-    '<div class="listing">&bull; Cookie Clicker is now 1 year old! (Thank you guys for all the support!)</div>' +
+    '<div class="listing">&bull; IDK Clicker is now 1 year old! (Thank you guys for all the support!)</div>' +
     '<div class="listing warning">&bull; Note : this is a beta; you are likely to encounter bugs and oversights. Feel free to send me feedback if you find something fishy!</div>' +
     '</div><div class="subsection update small">' +
     '<div class="title">18/05/2014 - better late than easter</div>' +
@@ -1314,7 +1314,7 @@ Game.Launch = function () {
     '<div class="listing">&bull; don\'t forget to check out <a href="http://orteil.dashnet.org/randomgen/" target="_blank">RandomGen</a>, our all-purpose random generator maker!</div>' +
     '</div><div class="subsection update small">' +
     '<div class="title">01/04/2014 - fooling around</div>' +
-    '<div class="listing">&bull; it\'s about time : Cookie Clicker has turned into the much more realistic Cookie Baker</div>' +
+    '<div class="listing">&bull; it\'s about time : IDK Clicker has turned into the much more realistic Cookie Baker</div>' +
     '<div class="listing">&bull; season triggers are cheaper and properly unlock again when they run out</div>' +
     '<div class="listing">&bull; buildings should properly unlock (reminder : building unlocking is completely cosmetic and does not change the gameplay)</div>' +
     '</div><div class="subsection update small">' +
@@ -1337,13 +1337,13 @@ Game.Launch = function () {
     '<div class="listing">&bull; added a new option to warn you when you close the window, so you don\'t lose your un-popped wrinklers</div>' +
     '<div class="listing">&bull; also added a separate option for displaying cursors</div>' +
     '<div class="listing">&bull; all the Halloween features are still there (and having the Spooky idk achievements makes the Halloween idk drop much more often)</div>' +
-    '<div class="listing">&bull; oh yeah, we now have <a href="http://www.redbubble.com/people/dashnet" target="_blank">Cookie Clicker shirts, stickers and hoodies</a>! (they\'re really rad)</div>' +
+    '<div class="listing">&bull; oh yeah, we now have <a href="http://www.redbubble.com/people/dashnet" target="_blank">IDK Clicker shirts, stickers and hoodies</a>! (they\'re really rad)</div>' +
     '</div><div class="subsection update small">' +
     '<div class="title">29/10/2013 - spooky update</div>' +
     "<div class=\"listing\">&bull; the Grandmapocalypse now spawns wrinklers, hideous elderly creatures that damage your CpS when they reach your big cookie. Thankfully, you can click on them to make them explode (you'll even gain back the idk they've swallowed - with interest!).</div>" +
     '<div class="listing">&bull; wrath cookie now 27% spookier</div>' +
     '<div class="listing">&bull; some other stuff</div>' +
-    '<div class="listing">&bull; you should totally go check out <a href="http://candybox2.net/" target="_blank">Candy Box 2</a>, the sequel to the game that inspired Cookie Clicker</div>' +
+    '<div class="listing">&bull; you should totally go check out <a href="http://candybox2.net/" target="_blank">Candy Box 2</a>, the sequel to the game that inspired IDK Clicker</div>' +
     '</div><div class="subsection update small">' +
     '<div class="title">15/10/2013 - it\'s a secret</div>' +
     '<div class="listing">&bull; added a new heavenly upgrade that gives you 5% of your heavenly chips power for 11 idk (if you purchased the Heavenly key, you might need to buy it again, sorry)</div>' +
@@ -1492,8 +1492,8 @@ Game.Launch = function () {
   Game.ErrorFrame = function () {
     l("javascriptError").innerHTML =
       '<div class="title">Oops. Wrong address!</div>' +
-      "<div>It looks like you're accessing Cookie Clicker from another URL than the official one.<br>" +
-      'You can <a href="http://orteil.dashnet.org/cookieclicker/" target="_blank">play Cookie Clicker over here</a>!<br>' +
+      "<div>It looks like you're accessing IDK Clicker from another URL than the official one.<br>" +
+      'You can <a href="http://orteil.dashnet.org/cookieclicker/" target="_blank">play IDK Clicker over here</a>!<br>' +
       "<small>(If for any reason, you are unable to access the game on the official URL, we are currently working on a second domain.)</small></div>";
   };
   Game.timedout = false;
@@ -1501,7 +1501,7 @@ Game.Launch = function () {
     Game.WriteSave();
     Game.killShimmers();
     l("javascriptError").innerHTML =
-      "Cookie Clicker is in sleep mode" +
+      "IDK Clicker is in sleep mode" +
       (Game.Has("Twin Gates of Transcendence")
         ? " and generating offline idk"
         : "") +
@@ -1570,7 +1570,7 @@ Game.Launch = function () {
     }
 
     //l('links').innerHTML=(Game.beta?'<a href="../" target="blank">Live version</a> | ':'<a href="beta" target="blank">Try the beta!</a> | ')+'<a href="http://orteil.dashnet.org/experiments/cookie/" target="blank">Classic</a>';
-    //l('links').innerHTML='<a href="http://orteil.dashnet.org/experiments/cookie/" target="blank">Cookie Clicker Classic</a>';
+    //l('links').innerHTML='<a href="http://orteil.dashnet.org/experiments/cookie/" target="blank">IDK Clicker Classic</a>';
 
     Game.lastActivity = Date.now(); //reset on mouse move, key press or click
 
@@ -1715,7 +1715,7 @@ Game.Launch = function () {
       if (Game.prefs && Game.prefs.warn) {
         if (typeof event == "undefined") event = window.event;
         if (event)
-          event.returnValue = "Are you sure you want to close Cookie Clicker?";
+          event.returnValue = "Are you sure you want to close IDK Clicker?";
       }
     };
 
@@ -1732,7 +1732,7 @@ Game.Launch = function () {
     Game.showBackupWarning = function () {
       Game.Notify(
         "Back up your save!",
-        'Hello again! Just a reminder that you may want to back up your Cookie Clicker save every once in a while, just in case.<br>To do so, go to Options and hit "Export save" or "Save to file"!<div class="line"></div><a style="float:right;" onclick="Game.prefs.showBackupWarning=0;==CLOSETHIS()==">Don\'t show this again</a>',
+        'Hello again! Just a reminder that you may want to back up your IDK Clicker save every once in a while, just in case.<br>To do so, go to Options and hit "Export save" or "Save to file"!<div class="line"></div><a style="float:right;" onclick="Game.prefs.showBackupWarning=0;==CLOSETHIS()==">Don\'t show this again</a>',
         [25, 7]
       );
     };
@@ -2282,7 +2282,7 @@ Game.Launch = function () {
 
     Game.attachTooltip(
       l("httpsSwitch"),
-      '<div style="padding:8px;width:350px;text-align:center;font-size:11px;">You are currently playing Cookie Clicker on the <b>' +
+      '<div style="padding:8px;width:350px;text-align:center;font-size:11px;">You are currently playing IDK Clicker on the <b>' +
         (Game.https ? "HTTPS" : "HTTP") +
         "</b> protocol.<br>The <b>" +
         (Game.https ? "HTTP" : "HTTPS") +
@@ -2325,22 +2325,22 @@ Game.Launch = function () {
     );
     Game.attachTooltip(
       l("topbarDiscord"),
-      '<div style="padding:8px;width:250px;text-align:center;">Our official discord server.<br>You can share tips and questions about Cookie Clicker and all our other games!</div>',
+      '<div style="padding:8px;width:250px;text-align:center;">Our official discord server.<br>You can share tips and questions about IDK Clicker and all our other games!</div>',
       "this"
     );
     Game.attachTooltip(
       l("topbarPatreon"),
-      '<div style="padding:8px;width:250px;text-align:center;">Support us on Patreon and help us keep updating Cookie Clicker!<br>There\'s neat rewards for patrons too!</div>',
+      '<div style="padding:8px;width:250px;text-align:center;">Support us on Patreon and help us keep updating IDK Clicker!<br>There\'s neat rewards for patrons too!</div>',
       "this"
     );
     Game.attachTooltip(
       l("topbarMerch"),
-      '<div style="padding:8px;width:250px;text-align:center;">Cookie Clicker shirts, hoodies and stickers!</div>',
+      '<div style="padding:8px;width:250px;text-align:center;">IDK Clicker shirts, hoodies and stickers!</div>',
       "this"
     );
     Game.attachTooltip(
       l("topbarMobileCC"),
-      '<div style="padding:8px;width:250px;text-align:center;">Play Cookie Clicker on your phone!<br>(Currently in beta, Android only; iOS version will be released later)</div>',
+      '<div style="padding:8px;width:250px;text-align:center;">Play IDK Clicker on your phone!<br>(Currently in beta, Android only; iOS version will be released later)</div>',
       "this"
     );
     Game.attachTooltip(
@@ -2827,7 +2827,7 @@ Game.Launch = function () {
 		LOAD
 		=======================================================================================*/
     Game.salvageSave = function () {
-      //for when Cookie Clicker won't load and you need your save
+      //for when IDK Clicker won't load and you need your save
       console.log("===================================================");
       console.log(
         'This is your save data. Copypaste it (without quotation marks) into another version using the "Import save" feature.'
@@ -2911,7 +2911,7 @@ Game.Launch = function () {
             //prompt if we loaded from the 2014 beta
             setTimeout(function () {
               Game.Prompt(
-                '<h3>New beta</h3><div class="block">Hey there! Unfortunately, your old beta save won\'t work here anymore; you\'ll have to start fresh or import your save from the live version.<div class="line"></div>Thank you for beta-testing Cookie Clicker, we hope you\'ll enjoy it and find strange and interesting bugs!</div>',
+                '<h3>New beta</h3><div class="block">Hey there! Unfortunately, your old beta save won\'t work here anymore; you\'ll have to start fresh or import your save from the live version.<div class="line"></div>Thank you for beta-testing IDK Clicker, we hope you\'ll enjoy it and find strange and interesting bugs!</div>',
                 [["Alright then!", "Game.ClosePrompt();"]]
               );
             }, 200);
@@ -2920,7 +2920,7 @@ Game.Launch = function () {
             //prompt if we loaded from the 2014 live version
             setTimeout(function () {
               Game.Prompt(
-                '<h3>Update</h3><div class="block"><b>Hey there!</b> Cookie Clicker just received a pretty substantial update, and you might notice that some things have been moved around. Don\'t panic!<div class="line"></div>Your building numbers may look strange, making it seem like you own buildings you\'ve never bought; this is because we\'ve added <b>3 new buildings</b> after factories (and swapped mines and factories), offsetting everything after them. Likewise, some building-related upgrades and achievements may look a tad shuffled around. This is all perfectly normal!<div class="line"></div>We\'ve also rebalanced Heavenly Chips amounts and behavior. Your amount of chips might be lower or higher than before.<br>You can now ascend through the <b>Legacy button</b> at the top!<div class="line"></div>Thank you for playing Cookie Clicker. We\'ve put a lot of work and care into this update and we hope you\'ll enjoy it!</div>',
+                '<h3>Update</h3><div class="block"><b>Hey there!</b> IDK Clicker just received a pretty substantial update, and you might notice that some things have been moved around. Don\'t panic!<div class="line"></div>Your building numbers may look strange, making it seem like you own buildings you\'ve never bought; this is because we\'ve added <b>3 new buildings</b> after factories (and swapped mines and factories), offsetting everything after them. Likewise, some building-related upgrades and achievements may look a tad shuffled around. This is all perfectly normal!<div class="line"></div>We\'ve also rebalanced Heavenly Chips amounts and behavior. Your amount of chips might be lower or higher than before.<br>You can now ascend through the <b>Legacy button</b> at the top!<div class="line"></div>Thank you for playing IDK Clicker. We\'ve put a lot of work and care into this update and we hope you\'ll enjoy it!</div>',
                 [["Neat!", "Game.ClosePrompt();"]]
               );
             }, 200);
@@ -3271,7 +3271,7 @@ Game.Launch = function () {
 
               setTimeout(function () {
                 Game.Prompt(
-                  '<h3>Beta patch</h3><div class="block">We\'ve tweaked some things and fixed some others, please check the update notes!<div class="line"></div>Of note : due to changes in prestige balancing, all your heavenly upgrades have been removed and your heavenly chips refunded; you\'ll be able to reallocate them next time you ascend.<div class="line"></div>Thank you again for beta-testing Cookie Clicker!</div>',
+                  '<h3>Beta patch</h3><div class="block">We\'ve tweaked some things and fixed some others, please check the update notes!<div class="line"></div>Of note : due to changes in prestige balancing, all your heavenly upgrades have been removed and your heavenly chips refunded; you\'ll be able to reallocate them next time you ascend.<div class="line"></div>Thank you again for beta-testing IDK Clicker!</div>',
                   [["Alright then!", "Game.ClosePrompt();"]]
                 );
               }, 200);
@@ -8543,7 +8543,7 @@ Game.Launch = function () {
           if (Game.Objects["Fractal engine"].amount > 0)
             list.push(
               choose([
-                'News : local man "done with Cookie Clicker", finds the constant self-references "grating and on-the-nose".',
+                'News : local man "done with IDK Clicker", finds the constant self-references "grating and on-the-nose".',
                 "News : local man sails around the world to find himself - right where he left it.",
                 'News : local guru claims "there\'s a little bit of ourselves in everyone", under investigation for alleged cannibalism.',
                 "News : news writer finds herself daydreaming about new career. Or at least a raise.",
@@ -8990,7 +8990,7 @@ Game.Launch = function () {
               "News : nation cheers as legislators finally outlaw " +
                 choose([
                   "cookie criticism",
-                  "playing other games than Cookie Clicker",
+                  "playing other games than IDK Clicker",
                   "pineapple on pizza",
                   "lack of cheerfulness",
                   "mosquitoes",
@@ -16178,9 +16178,9 @@ Game.Launch = function () {
       price: 99999999999999999999999999999,
     });
     Game.last.baseDesc =
-      "Cookie production multiplier <b>+1%</b> for every year Cookie Clicker has existed (currently : <b>+" +
+      "Cookie production multiplier <b>+1%</b> for every year IDK Clicker has existed (currently : <b>+" +
       Beautify(years) +
-      "%</b>).<q>Thank you for playing Cookie Clicker!<br>-Orteil</q>";
+      "%</b>).<q>Thank you for playing IDK Clicker!<br>-Orteil</q>";
     Game.last.desc = BeautifyInText(Game.last.baseDesc);
 
     order = 150;
@@ -17570,7 +17570,7 @@ Game.Launch = function () {
     });
     Game.NewUpgradeCookie({
       name: "Putri salju",
-      desc: "A beloved Indonesian pastry; its name means \"snow princess\", for the powdered sugar it's coated with. Had we added these to Cookie Clicker some years ago, this is where we'd make a reference to that one Disney movie, but it's probably time to let it go.",
+      desc: "A beloved Indonesian pastry; its name means \"snow princess\", for the powdered sugar it's coated with. Had we added these to IDK Clicker some years ago, this is where we'd make a reference to that one Disney movie, but it's probably time to let it go.",
       icon: [31, 30],
       power: 5,
       price: getCookiePrice(20),
@@ -20460,7 +20460,7 @@ Game.Launch = function () {
     order = 1475;
     Game.TieredAchievement(
       "The Prestige",
-      "Have <b>400</b> wizard towers.<q>(Unrelated to the Cookie Clicker feature of the same name.)</q>",
+      "Have <b>400</b> wizard towers.<q>(Unrelated to the IDK Clicker feature of the same name.)</q>",
       "Wizard tower",
       9
     );
@@ -20599,7 +20599,7 @@ Game.Launch = function () {
     order = 36000;
     new Game.Achievement(
       "So much to do so much to see",
-      "Manage a cookie legacy for <b>at least a year</b>.<q>Thank you so much for playing Cookie Clicker!</q>",
+      "Manage a cookie legacy for <b>at least a year</b>.<q>Thank you so much for playing IDK Clicker!</q>",
       [23, 11]
     );
     Game.last.pool = "shadow";
@@ -24884,7 +24884,7 @@ Game.Launch = function () {
     }
 
     if (Game.T % (Game.fps * 2) == 0) {
-      var title = "Cookie Clicker";
+      var title = "IDK Clicker";
       if (Game.season == "fools") title = "Cookie Baker";
       document.title =
         (Game.OnAscend ? "Ascending! " : "") +
